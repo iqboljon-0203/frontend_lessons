@@ -1,0 +1,13 @@
+.title{
+    /* border:5px solid red; */
+    border-width: 5px;
+    border-style:groove;
+    border-color:blue;
+    border-radius: 20px;
+}
+.box{
+    width: 200px;
+    height: 280px;
+    border:1px solid red;
+    border-radius:100%;
+}
